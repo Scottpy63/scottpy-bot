@@ -37,11 +37,7 @@ https://api.telegram.org/bot **$apiToken**/setWebhook?url= **$url** /index.php
 - [x] Broadcast (only selected ids)
 
 ## Heroku Deploy
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/reboot13-git/telegram-bot)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Scottpy63/)
 
 
-## Reboot13
-
-[Telegram](https://telegram.me/reboot13)
-
-[Youtube](https://youtube.com/krutikraut)
+## @Scott.py
