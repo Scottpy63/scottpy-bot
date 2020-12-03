@@ -6,8 +6,8 @@
         "Bot",
         "Telegram"
     ],
-    "website": "https://reboot13-git.github.io/telegram-bot/",
-    "repository": "https://github.com/reboot13-git/telegram-bot",
+    "website": "https://github.com/Scottpy63/telegram-bot/",
+    "repository": "https://github.com/Scottpy63/telegram-bot",
     "success_url": "/",
     "env": {
         "API_TOKEN": {
